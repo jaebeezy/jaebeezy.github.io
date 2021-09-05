@@ -72,10 +72,10 @@ section .picture-frame {
   transition: opacity 0.5s ease-out;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 800px) {
   section .picture-frame {
-    height: 200px;
-    width: 200px;
+    height: 125px;
+    width: 125px;
   }
 }
 
