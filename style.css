@@ -147,7 +147,7 @@ section p {
 }
 
 section a {
-  color: #22b9ff;
+  color: rgb(165, 125, 131);
   text-decoration: none;
   transition: opacity 0.75s 0.5s ease-out;
 }
